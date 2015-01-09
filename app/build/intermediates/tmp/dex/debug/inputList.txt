@@ -1,0 +1,6 @@
+/Users/simoneloru/AndroidStudioProjects/fitscales_import/app/build/intermediates/classes/debug
+/Users/simoneloru/AndroidStudioProjects/fitscales_import/app/build/intermediates/pre-dexed/debug/svg-android-80c5325ae0c7c92fc7735b3ef66aa3e186259be1.jar
+/Users/simoneloru/AndroidStudioProjects/fitscales_import/app/build/intermediates/pre-dexed/debug/scribe-1.3.0-c09bb80d82a44b52e85c58a1255d2f0a43454ce9.jar
+/Users/simoneloru/AndroidStudioProjects/fitscales_import/app/build/intermediates/pre-dexed/debug/commons-codec-1.6-923f36aa8edc9a8c1fbb999af2e59a33dd7a0c7e.jar
+/Users/simoneloru/AndroidStudioProjects/fitscales_import/app/build/intermediates/pre-dexed/debug/classes-e5323d84fb733abf03462e08e76d6a7d93232230.jar
+/Users/simoneloru/AndroidStudioProjects/fitscales_import/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-519bd6c1905ea67a1e8c4a7ebb4495fc50c55afb.jar

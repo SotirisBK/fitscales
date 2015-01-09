@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="4.4.0"><source path="/Users/simoneloru/AndroidStudioProjects/fitscales_import/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/assets"/></dataSet><dataSet config="main"><source path="/Users/simoneloru/AndroidStudioProjects/fitscales_import/app/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/simoneloru/AndroidStudioProjects/fitscales_import/app/src/release/assets"/></dataSet></merger>

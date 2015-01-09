@@ -1,0 +1,1 @@
+/Users/simoneloru/AndroidStudioProjects/fitscales_import/app/build/intermediates/classes-proguard/release/classes.jar
